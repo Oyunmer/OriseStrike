@@ -1,2 +1,2 @@
 # OriseStrike
-its an 3D Shooter game made with Java
+Its a basic copy of Counter Strike but made with Java from Scratch
